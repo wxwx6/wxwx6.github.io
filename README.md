@@ -1,5 +1,4 @@
 # iOSAppTest
-## [简书主页]( https://www.jianshu.com/u/b37773b21ff3)
 
 ## 这是一个用于iOSApp测试的NodeJSWeb项目
 
